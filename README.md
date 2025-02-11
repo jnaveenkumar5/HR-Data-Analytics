@@ -1,4 +1,7 @@
 # 📊 HR Data Analytics – HR Domain (Power BI | Excel)
+## 🔍 Problem Statement
+HR teams face challenges in **tracking and managing employee data efficiently**.  
+Manual processes for **attendance, performance evaluation, and leave management** lead to **time-consuming tasks** and **delayed decision-making**.  
 
 ## 🔍 Project Overview
 This project focuses on **HR data analytics**, helping HR teams track and analyze **employee data**, including:
@@ -7,20 +10,6 @@ This project focuses on **HR data analytics**, helping HR teams track and analyz
 - **Leave management** 🏖️  
 
 By automating reports in **Power BI**, this dashboard **saves 3-4 hours of manual work** daily and improves decision-making.
-
----
-# 📊 HR Data Analytics – HR Domain (Power BI | Excel)
-
-## 🔍 Problem Statement
-HR teams face challenges in **tracking and managing employee data efficiently**.  
-Manual processes for **attendance, performance evaluation, and leave management** lead to **time-consuming tasks** and **delayed decision-making**.  
-
-### **Objective**  
-To create an **interactive Power BI dashboard** that:  
-✅ Automates **HR data tracking**  
-✅ Saves **3-4 hours of manual work daily**  
-✅ Provides **insights into employee performance & leave trends**  
-
 ---
 ## 🔧 Tools & Technologies Used
 - **Power BI** – Data visualization & dashboard creation  

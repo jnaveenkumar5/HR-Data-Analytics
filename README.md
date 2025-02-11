@@ -9,7 +9,7 @@ This project focuses on **HR data analytics**, helping HR teams track and analyz
 - **Performance trends** 📈  
 - **Leave management** 🏖️  
 
-By automating reports in **Power BI**, this dashboard **saves 3-4 hours of manual work** daily and improves decision-making.
+### By automating reports in **Power BI**, this dashboard **saves 3-4 hours of manual work** daily and improves decision-making.
 ---
 ## 🔧 Tools & Technologies Used
 - **Power BI** – Data visualization & dashboard creation  
